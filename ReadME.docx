@@ -17,7 +17,7 @@ El usuario puede convertir tanto de USD hacia otra moneda como viceversa.
 
 - Java
 - IntelliJ IDEA
-- API de conversión de divisas (por ejemplo: [exchangerate-api.com](https://www.exchangerate-api.com/) u otra)
+- API de conversión de divisas 
 
 ## ⚙️ Instrucciones de uso
 
